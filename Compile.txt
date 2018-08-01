@@ -1,0 +1,1 @@
+g++ recaman_sequence.cpp -o recaman -lGL -lGLU -lglut
